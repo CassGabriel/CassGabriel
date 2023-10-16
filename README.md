@@ -14,4 +14,7 @@
     <a href="https://www.sankhya.com.br/">
         <img src="https://theme.zdassets.com/theme_assets/9618168/9fbfa745557f3851f0417f8bf69e31ac45fdb85c.png" width="70" height="70"/>
     </a>
+    <a href="https://www.oracle.com/br/database/sqldeveloper/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70" height="70"/>
+    </a>
 </div>
