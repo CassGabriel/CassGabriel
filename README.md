@@ -18,3 +18,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70" height="70"/>
     </a>
 </div>
+<br>
+<div align='center'>______________________________________________________________________________</div>
+<br>
+<div style="display: flex; justify-content: space-between; width: 100%;" align='center'>
+     <a href="https://criarmeulink.com.br/u/1697488981">
+        <img src="https://devicons.railway.app/i/telegram.svg" width="70" height="70"/>
+     </a>
+     <a href="https://www.facebook.com/gabriel.pertile.rossignoli/">
+        <img src="https://icongr.am/devicon/facebook-original.svg?size=70&color=currentColor">
+     </a>
+     <a href="https://www.instagram.com/gabriel_rossignoli/">
+        <img src="https://pngimg.com/uploads/instagram/instagram_PNG9.png" width="70" height="70"/>
+     </a>
+      <a href="https://www.linkedin.com/in/gabriel-rossignoli-704958160/">
+        <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG11.png" width="70" height="70"/>
+     </a>
+</div>
