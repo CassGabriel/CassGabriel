@@ -1,11 +1,5 @@
-<style>
-    a {
-    color: inherit;
-    text-decoration: none;
-    }
-</style>
 <div style="display: flex; justify-content: space-between; width: 100%;" align='center'>
-    <a href="https://react.dev/">
+    <a href="https://react.dev/" style="color: inherit; text-decoration: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70"/>
     </a>
     <a href="https://nodejs.org/en">
